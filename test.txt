@@ -1,0 +1,1 @@
+test file to zip with brute-forceable password: dcba
