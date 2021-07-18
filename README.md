@@ -1,10 +1,11 @@
 # Escape Room Hack Challenge
 
-> A hacking challenge for use in an escape room target at progrmmers
+> A hacking challenge for use in an escape room for programmers
 
 The `src/` folder contains a hacking challenge (with its own README). It is intended to be one of many puzzles in an escape room.
 
 Solving the challenge doesn't require much coding - It's more about reading the [`README`](./src/README.md) and solving the puzzle by modifying the provided code.
+
 An internet connection is not needed to solve this puzzle.
 
 ## Setup Instructions
